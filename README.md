@@ -2,7 +2,7 @@
 
 A light Omarchy theme inspired by the landscapes and country scenes of James Bulwer.
 
-![GitHub stars](https://img.shields.io/github/stars/mattbbia/bulwer-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/bulwer-omarchy?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/mattbbia/bulwer-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/bulwer-omarchy?style=flat-square) ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square)
 
 ![Omarchy James Bulwer Theme](preview.png)
 
@@ -60,19 +60,13 @@ This theme includes seven carefully selected paintings:
 - Chromium
 - Foot
 - Ghostty
-- GTK
 - Hyprland
-- Hyprlock
 - Kitty
-- Mako
 - Neovim
-- SwayOSD
+- Omarchy Shell (bar, lock screen, notifications, launcher, on-screen display)
 - Vencord
 - VS Code
-- Walker
 - Warp
-- Waybar
-- Wofi
 - Zellij
 
 ## Installation
