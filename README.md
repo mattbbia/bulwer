@@ -2,7 +2,7 @@
 
 A light Omarchy theme inspired by the landscapes and country scenes of James Bulwer.
 
-![GitHub stars](https://img.shields.io/github/stars/mattbbia/bulwer-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/bulwer-omarchy?style=flat-square) ![Hits](https://hits.sh/github.com/mattbbia/bulwer.svg?style=flat-square&label=hits&color=44cc11) <img src="omarchy-icon.png" width="20" height="20" alt="Omarchy" title="Omarchy Quattro Ready"> ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/mattbbia/bulwer-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/bulwer-omarchy?style=flat-square) ![Hits](https://hits.sh/github.com/mattbbia/bulwer.svg?style=flat-square&label=hits&color=44cc11) <img src="omarchy-icon.png" width="20" height="20" alt="Omarchy" title="Omarchy Quattro Ready"> ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square) ![Mode](https://img.shields.io/badge/mode-light-fbbf24?style=flat-square)
 
 ![Omarchy James Bulwer Theme](preview.png)
 
